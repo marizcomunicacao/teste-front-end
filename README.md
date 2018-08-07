@@ -9,7 +9,7 @@
 1. Faça um fork deste repositório;
 2. Implemente com base no layout disponível na pasta "_material";
 3. Siga os critérios que estão listados neste documento;
-4. Após finzalizar o teste nos dê um feedback através do email tecnologia@mariz.com.br
+4. Após finalizar o teste nos dê um feedback através do email tecnologia@mariz.com.br
 
 
 ## Avaliação 
